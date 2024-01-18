@@ -45,11 +45,6 @@ Soy un ingeniero industrial con experiencia en el sector energético. Mi objetiv
   
 ### Grado en Ingeniería en Tecnologías Industriales - Universidad de Sevilla
 - 2018 - 2022
-  
-## Proyectos Destacados
-### Nombre del Proyecto
-- Descripción breve
-- Enlace al repositorio o demo (si aplica).
 
 ## Idiomas
 - Inglés C1
